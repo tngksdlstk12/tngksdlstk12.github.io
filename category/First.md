@@ -1,6 +1,6 @@
 ---
 layout: category
 
-title: "흠"
+title: 흠
 
 ---
